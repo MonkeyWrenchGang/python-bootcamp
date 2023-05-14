@@ -36,10 +36,6 @@ To get started with the Python Bootcamp, follow these steps:
 
 4. Dive into the world of Python programming and start your learning journey!
 
-## Support
-
-If you encounter any issues, have questions, or need assistance during the bootcamp, feel free to reach out to our support team at [email address].
-
 ## Acknowledgments
 
 We would like to express our gratitude to the open-source community for their invaluable contributions, which have helped shape this bootcamp.
